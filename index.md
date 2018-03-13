@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## AC-Miner Introduction
 
-You can use the [editor on GitHub](https://github.com/Acmine/ACMiner/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This project targets at providing assistance to diagnose and fix fragmentation-induced compatibility issues (**_FIC issues_**). AC-Miner targets mines valid API-device correlations from existing Android apps. Such API-device correlations could help app developers to reduce search space for FIC issues to APIs that can cause compatibility issues on specific devices.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+On this page, we provide our FIC issue archive containing 11 real world FIC issues collected with the help of AC-Miner and video clips demonstrating inconsistent behavior of FIC issues.
 
-### Markdown
+### FIC Issue archive
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+All the information of our (currently) collected FIC issues are available in the [archive](https://github.com/Acmine/ACMiner/issues).
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Acmine/ACMiner/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### FIC issue demo videos
+All the demo videos are available in our [YouTube Playlist](https://www.youtube.com/playlist?list=PLhpuZwQ2BiuIYYeSeHpaqtEL4gQK-Q7io)
