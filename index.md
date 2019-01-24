@@ -1,3 +1,7 @@
+## Download Pivot
+You can find the artifact to reproduce the evaluation results of Pivot in our ICSE 2019 paper at:
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2548598.svg)](https://doi.org/10.5281/zenodo.2548598)
+
 ## Pivot Introduction
 
 This project targets at providing assistance to diagnose and fix fragmentation-induced compatibility issues (**_FIC issues_**). Pivot targets at learning valid API-device correlations from existing Android apps. Such API-device correlations could help app developers to reduce search space for FIC issues to APIs that can cause compatibility issues on specific devices.
