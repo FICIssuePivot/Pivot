@@ -1,6 +1,6 @@
 ## Download Pivot
 You can find the artifact to reproduce the evaluation results of Pivot in our ICSE 2019 paper at:
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2548598.svg)](https://doi.org/10.5281/zenodo.2548598)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2548598.svg)](https://doi.org/10.5281/zenodo.2548598) or out [GitHub Repo](https://github.com/FICIssuePivot/Pivot/releases/download/v1.0.0/Pivot_artifact.zip).
 
 ## Pivot Introduction
 
