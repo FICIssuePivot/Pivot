@@ -1,6 +1,6 @@
 ## Download Pivot
 You can find the artifact to reproduce the evaluation results of Pivot in our ICSE 2019 paper at:
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2548598.svg)](https://doi.org/10.5281/zenodo.2548598) or out [GitHub Repo](https://github.com/FICIssuePivot/Pivot/releases/download/v1.0.0/Pivot_artifact.zip).
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2548598.svg)](https://doi.org/10.5281/zenodo.2548598) or our [GitHub Repo](https://github.com/FICIssuePivot/Pivot/releases/download/v1.0.0/Pivot_artifact.zip).
 
 ## Pivot Introduction
 
@@ -14,3 +14,7 @@ All the information of our (currently) collected FIC issues are available in the
 
 ### FIC issue demo videos
 All the demo videos are available in our [YouTube Playlist](https://www.youtube.com/playlist?list=PLhpuZwQ2BiuIYYeSeHpaqtEL4gQK-Q7io)
+
+### Related Paper
+[Lili Wei](http://home.cse.ust.hk/~lweiae/), [Yepang Liu](https://yepangliu.github.io), [S.C. Cheung](https://www.cse.ust.hk/~scc/). "PIVOT: Learning API-Device Correlations to Facilitate Android Compatibility Issue Detection" in Proceedings of 41st ACM/IEEE International Conference on Software Engineering (ICSE 2019). To appear. [acceptance rate: 109/529 = 20.6%]
+[Check out a preprint here!](http://sccpu2.cse.ust.hk/liliwei/ICSE-main-350-CR.pdf)
